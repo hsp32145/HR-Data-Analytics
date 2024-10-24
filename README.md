@@ -3,10 +3,7 @@ This HR Analytics Dashboard is designed to provide insights into various aspects
 # Key Metrics
 1. **Count of Employees**: Displays the total number of employees (1,480).
 2. **Attrition**: Shows the total number of employees who have left the organization (238).
-3. **Attrition Rate**: Represents the percentage of the workforce that has left (16.1%). This is calculated as:
-   \[
-   \text{Attrition Rate} = \left(\frac{\text{Attrition}}{\text{Total Employees}}\right) \times 100
-   \]
+3. **Attrition Rate**: Represents the percentage of the workforce that has left (16.1%). 
 
 4. **Average Age**: Displays the mean age of all employees (37 years).
 5. **Average Salary**: Shows the average salary of employees in thousands (6.5K).
